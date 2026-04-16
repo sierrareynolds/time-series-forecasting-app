@@ -1,6 +1,6 @@
 # 📈 Time Series Forecasting Studio
 
-**Utah State University · DATA 4820/5420 Final Project**  
+**Utah State University · DATA 5630 Final Project**  
 **Author:** Sierra Reynolds · Huntsman School of Business
 
 ---
